@@ -1,4 +1,8 @@
 Hello, World
 New line of text
 third line of tect
+HEAD
 changement sur master
+
+modification de fichier dans la branche à rebaser
+eeb1b35 (ajout d'un message pour le rabsement)
