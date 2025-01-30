@@ -3,6 +3,10 @@ New line of text
 third line of tect
 HEAD
 changement sur master
+<<<<<<< HEAD
 
 modification de fichier dans la branche à rebaser
 eeb1b35 (ajout d'un message pour le rabsement)
+=======
+new line (modification done from github)
+>>>>>>> 851f11778e43e6e463fa473a093d02b5ae9f2dbb
