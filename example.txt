@@ -7,3 +7,4 @@ ajout dune nouvelle ligne depuis github
 
 ajout dune nouvelle ligne depuis github
  master
+test de la rule
